@@ -1,0 +1,114 @@
+
+<html>
+
+<head>
+    <title></title>
+    <style>
+        :is([id*='google_ads_iframe'], [id*='taboola-'], .taboolaHeight, .taboola-placeholder, #credential_picker_container, #credentials-picker-container, #credential_picker_iframe, [id*='google-one-tap-iframe'], #google-one-tap-popup-container, .google-one-tap-modal-div, #amp_floatingAdDiv, #ez-content-blocker-container) {
+            display: none !important;
+            min-height: 0 !important;
+            height: 0 !important;
+        }
+    </style>
+</head>
+
+<body class="vsc-initialized">
+    <h1>Allsky Camera Network for Detecting Bolides</h1>
+    <p>
+    </p>
+    <hr>
+    <p>
+    </p>
+    <center>
+        <table border="1">
+            <tbody>
+                <tr align="center">
+                    <td>Project Name</td>
+                    <td>Bolide</td>
+                </tr>
+                <tr align="center">
+                    <td>
+                        <p>Team Members and Email Addresses</p>
+                    </td>
+                    <td>
+                        <p>Tyler Turner, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="44303031362a21367674767504293d6a222d306a212031">[email&#160;protected]</a></p>
+                        <p>Vincent Quintero, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="41373034282f35243373717370012c386f2728356f242534">[email&#160;protected]</a></p>
+                        <p>Jean-Pierre Derbes, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cda7a9a8bfafa8befffdfffc8da0b4e3aba4b9e3a8a9b8">[email&#160;protected]</a></p>
+                        <p>Charles Derbes, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ff9c9b9a8d9d9a8ccdcfcdcebf9286d199968bd19a9b8a">[email&#160;protected]</a></p>
+                    </td>
+
+                </tr>
+                <tr align="center">
+                    <td>Faculty Advisor</td>
+                    <td>Csaba Palotai, APSS, <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="80e3f0e1eceff4e1e9c0e6e9f4aee5e4f5">[email&#160;protected]</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+    <p>
+    </p>
+    <center>
+        <h3>First Semester</h3>
+        <table border="1">
+            <tbody>
+                <tr align="center">
+                    <td>Plan (Sep 4)</td>
+                    <td><a href="plan.pdf" target="_blank">Plan</a>, <a href="BolidePlanPresentation.pdf" target="_blank">Presentation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 1 (Sep 30)</td>
+                    <td><a href="requirement.pdf" target="_blank">Requirement</a>, <a href="design.pdf" target="_blank">Design</a>, <a
+                            href="test.pdf" target="_blank">Test</a>, <a href="milestone1.pdf" target="_blank">Presentation</a>, <a
+                            href="eval1.pdf" target="_blank">Progress Evaluation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 2 (Oct 28)</td>
+                    <td><a href="milestone2.pdf">Presentation</a>, <a href="eval2.pdf">Progress Evaluation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 3 (Nov 25)</td>
+                    <td><a href="milestone3.pdf">Presentation</a>, <a href="eval3.pdf">Progress Evaluation</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+
+    <center>
+
+        <h3>Second Semester</h3>
+
+        <table border="1">
+            <tbody>
+                <tr align="center">
+                    <td>Plan (Sep 4)</td>
+                    <td><a href="plan2.pdf">Plan</a>, <a href="plan2Pres.pdf">Presentation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 4 (-TBD-)</td>
+                    <td><a href="milestone4.pdf">Presentation</a>, <a href="eval4.pdf">Progress Evaluation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 5 (-TBD-)</td>
+                    <td><a href="poster.pdf">Poster</a>, <a href="ebook.pdf">e-book page</a>, <a
+                            href="milestone5.pdf">Presentation</a>, <a href="eval5.pdf">Progress Evaluation</a></td>
+                </tr>
+                <tr align="center">
+                    <td>Milestone 6 (-TBD-)</td>
+                    <td><a href="userManual.pdf">User and/or Developer Manual</a>, <a href="demoVideo.jpg">Demo
+                            Video</a>, <a href="milestone6.pdf">Presentation</a>, <a href="eval6.pdf">Progress
+                            Evaluation</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
+
+    <p>
+    </p>
+    <hr>
+    <a href="deeplearning.pdf">Deep Learning Presentation</a> <br/>
+    <a href="http://www.cs.fit.edu/~pkc/">In case of emergency</a>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"903fbc8d1b7e67ce","version":"2025.1.0","r":1,"token":"bcd874a19e3e4f4fa60ccaecaa10a97f","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
+</body>
+
+</html>
